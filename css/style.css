@@ -58,13 +58,13 @@ Main components
   padding: 2em 0;
 }
 .cd-section:nth-of-type(odd) {
-  background-color: #2c3e50;
+  background-color: #007acc;
 }
 .cd-section:nth-of-type(odd) p {
-  color: #ECF0F1;
+  color: #ffffff;
 }
 .cd-section:nth-of-type(even) {
-  background-color: #3498DB;
+  background-color: #2c3e50;
 }
 .cd-section:nth-of-type(even) p {
   color: #ECF0F1;
@@ -183,7 +183,7 @@ Main components
   height: 12px;
   width: 12px;
   border-radius: 50%;
-  background-color: #ff6600;
+  background-color: #000000;
   -webkit-transition: -webkit-transform 0.2s, background-color 0.5s;
   -moz-transition: -moz-transform 0.2s, background-color 0.5s;
   transition: transform 0.2s, background-color 0.5s;
